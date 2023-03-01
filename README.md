@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gustavo Lemos 👋
+## Hey! I'm Gustavo Lemos 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoalle&show_icons=true&theme=dracula)
 
