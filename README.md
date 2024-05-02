@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Gustavo 🖐️
 
-Graduando em Analise e Desenvolvimento de Sistemas, graduado em Processos Gerenciais, pós-graduado em Gestão Estratégica de Negócios, e Técnico em Informática. 
+- Graduando em Analise e Desenvolvimento de Sistemas
 
-Atualmente, além da graduação, estou realizando uma formação intensiva com foco em Desenvolvimento de Software FullStack, que me confere aprendizado através de conceitos e práticas com HTML, CSS, Javascript, React, Node.js e SQL.
+- Realizando a formação intensiva com foco em Desenvolvimento de Software FullStack da Cubos Academy
 
 Tenho o objetivo de assumir profissionalmente uma posição como desenvolvedor de software para contribuir com o negócio utilizando os conhecimentos adquiridos até aqui e continuar em constante evolução.
 
