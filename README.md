@@ -4,7 +4,7 @@
 
 - Realizando a formação intensiva com foco em Desenvolvimento de Software FullStack da Cubos Academy
 
-Tenho o objetivo de assumir profissionalmente uma posição como desenvolvedor de software para contribuir com o negócio utilizando os conhecimentos adquiridos até aqui e continuar em constante evolução.
+- Tenho o objetivo de assumir profissionalmente uma posição como desenvolvedor de software para contribuir com o negócio utilizando os conhecimentos adquiridos até aqui e continuar em constante evolução.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoalveslemos/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gustavoalle_)
